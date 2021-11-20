@@ -1,0 +1,7 @@
+The accuracy of: 
++ Gaussian Naive Bayes: 89.0
++ Logistic Regression: 82.6875
++ Support Vector Machine: 91.12500000000001
++ K-Nearest Neighbors: 92.9375
++ Decision Tree: 99.56249999999999
++ Random Forest: 91.875
